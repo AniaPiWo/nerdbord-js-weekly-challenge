@@ -8,7 +8,7 @@ import { DarkMode } from "../challenges/week-7/DarkMOde";
 
 function App() {
   return (
-    <div>
+    <div className="mainDiv">
       <DarkMode />
     </div>
   );

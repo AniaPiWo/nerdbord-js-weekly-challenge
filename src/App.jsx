@@ -15,3 +15,28 @@ function App() {
 }
 
 export default App;
+
+/* function App() {
+
+  const buttons = 5;
+
+  const numbers = Array.from({length: buttons}, (_, index) => index + 1)
+  console.log(numbers);
+
+  return (
+
+      <div className='mainDiv'>
+        <h1>Weekly Javascript Challenge</h1>
+        <div className='buttonBox'>
+          {numbers.map((number, index) => (
+            <Button key={index} number={number} />
+          ))}
+        </div>
+        <div className='challenge'>
+          <WebsiteProject />
+        </div>
+      </div>
+  )
+}
+
+export default App */

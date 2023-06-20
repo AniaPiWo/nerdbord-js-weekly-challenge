@@ -43,3 +43,38 @@
   background: #000000;
   border-radius: 50px;
 }
+
+.title {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 110px;
+  line-height: 122px;
+  letter-spacing: -8px;
+}
+
+.main {
+  text-align: start;
+  width: 1%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px;
+}
+
+.theme {
+  transition: 1s all ease;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}

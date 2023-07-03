@@ -1,4 +1,3 @@
-import React from "react";
 import css from "./BreakingNews.module.css";
 import Marquee from "react-fast-marquee";
 

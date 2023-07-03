@@ -1,5 +1,4 @@
 'use client'
-import React from "react";
 import css from "./InteractiveProductCard.module.css";
 import Image from "next/image";
 import Rectangle1 from "../../assets/Rectangle1.png";

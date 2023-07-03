@@ -322,8 +322,6 @@ __webpack_require__.d(__webpack_exports__, {
 
 // EXTERNAL MODULE: external "next/dist/compiled/react/jsx-runtime"
 var jsx_runtime_ = __webpack_require__(6786);
-// EXTERNAL MODULE: external "next/dist/compiled/react"
-var react_ = __webpack_require__(8038);
 // EXTERNAL MODULE: ./src/challenges/s1-week-4/InteractiveProductCard.module.css
 var InteractiveProductCard_module = __webpack_require__(1455);
 var InteractiveProductCard_module_default = /*#__PURE__*/__webpack_require__.n(InteractiveProductCard_module);
@@ -344,7 +342,6 @@ var image_default = /*#__PURE__*/__webpack_require__.n(next_image);
 /* harmony default export */ const Rectangle6 = ({"src":"/_next/static/media/Rectangle6.44655bd9.png","height":497,"width":340,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAAl0lEQVR42iXITw+BYADA4fdT+wSuDh20GVubzZGjO0e2zJgcqqWISH+0NPXmRzzHRyx0Q273B2wvwL+m3JNCio3hYLlNJIRxwSOvEKYTcAqayMmeFa/qjXD96BdFCWUFdf3N8y3DDyK08RD76NAQ3iUhzUs6fYUwif+5WhtYpoXSmxBFGbUsESO1LbVOi4HaZTmfstNn8gNiLo+7BVqHgQAAAABJRU5ErkJggg==","blurWidth":5,"blurHeight":8});
 ;// CONCATENATED MODULE: ./src/challenges/s1-week-4/InteractiveProductCard.tsx
 /* __next_internal_client_entry_do_not_use__ InteractiveProductCard auto */ 
-
 
 
 
@@ -520,8 +517,6 @@ __webpack_require__.d(__webpack_exports__, {
 
 // EXTERNAL MODULE: external "next/dist/compiled/react/jsx-runtime"
 var jsx_runtime_ = __webpack_require__(6786);
-// EXTERNAL MODULE: ./node_modules/next/dist/compiled/react/react.shared-subset.js
-var react_shared_subset = __webpack_require__(7887);
 // EXTERNAL MODULE: ./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js
 var module_proxy = __webpack_require__(1313);
 ;// CONCATENATED MODULE: ./src/challenges/s1-week-4/InteractiveProductCard.tsx
@@ -538,7 +533,6 @@ const __default__ = proxy.default;
 const e0 = proxy["InteractiveProductCard"];
 
 ;// CONCATENATED MODULE: ./app/week-4/page.tsx
-
 
 
 const Week4 = ()=>{

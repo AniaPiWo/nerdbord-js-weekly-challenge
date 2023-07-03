@@ -356,8 +356,6 @@ __webpack_require__.d(__webpack_exports__, {
 
 // EXTERNAL MODULE: external "next/dist/compiled/react/jsx-runtime"
 var jsx_runtime_ = __webpack_require__(6786);
-// EXTERNAL MODULE: ./node_modules/next/dist/compiled/react/react.shared-subset.js
-var react_shared_subset = __webpack_require__(7887);
 // EXTERNAL MODULE: ./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js
 var module_proxy = __webpack_require__(1313);
 ;// CONCATENATED MODULE: ./src/challenges/s1-week-3/ConfirmationModal.tsx
@@ -374,7 +372,6 @@ const __default__ = proxy.default;
 const e0 = proxy["ConfirmationModal"];
 
 ;// CONCATENATED MODULE: ./app/week-3/page.tsx
-
 
 
 const Week3 = ()=>{

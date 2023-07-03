@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Week6 = () => {
   return (
     <div>

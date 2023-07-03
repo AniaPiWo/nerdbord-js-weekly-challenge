@@ -1,4 +1,3 @@
-import React from 'react'
 import { Stars } from '../../src/challenges/s1-week-1/Stars'
 
 const Week1 = () => {

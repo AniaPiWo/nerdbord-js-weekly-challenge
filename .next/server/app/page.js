@@ -237,25 +237,22 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6786);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(8038);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _ChallengeButton_module_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(3755);
-/* harmony import */ var _ChallengeButton_module_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_ChallengeButton_module_css__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var next_navigation__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9483);
-/* harmony import */ var next_navigation__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_navigation__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _ChallengeButton_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3755);
+/* harmony import */ var _ChallengeButton_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_ChallengeButton_module_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var next_navigation__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9483);
+/* harmony import */ var next_navigation__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_navigation__WEBPACK_IMPORTED_MODULE_1__);
 /* __next_internal_client_entry_do_not_use__ default auto */ 
-
 
 
 const ChallengeButton = ({ number })=>{
     const buttonText = `Week ${number}`;
-    const router = (0,next_navigation__WEBPACK_IMPORTED_MODULE_2__.useRouter)();
+    const router = (0,next_navigation__WEBPACK_IMPORTED_MODULE_1__.useRouter)();
     const openChallenge = ()=>{
         console.log("clicked");
         router.push(`/week-${number}`);
     };
     return /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("button", {
-        className: (_ChallengeButton_module_css__WEBPACK_IMPORTED_MODULE_3___default().ChallengeButton),
+        className: (_ChallengeButton_module_css__WEBPACK_IMPORTED_MODULE_2___default().ChallengeButton),
         onClick: openChallenge,
         children: buttonText
     });
@@ -326,7 +323,6 @@ var page_module_default = /*#__PURE__*/__webpack_require__.n(page_module);
 var Header_module = __webpack_require__(4);
 var Header_module_default = /*#__PURE__*/__webpack_require__.n(Header_module);
 ;// CONCATENATED MODULE: ./src/components/Header/Header.tsx
-
 
 
 const Header = ()=>{

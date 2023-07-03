@@ -1,5 +1,5 @@
 'use client'
-import React, { useState } from "react";
+import { useState } from "react";
 import css from "./ConfirmationModal.module.css";
 
 export const ConfirmationModal = () => {

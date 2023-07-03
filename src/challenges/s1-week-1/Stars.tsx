@@ -1,5 +1,5 @@
 'use client'
-import React, { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef } from "react";
 import css from "./Stars.module.css";
 
 interface StarsProps {

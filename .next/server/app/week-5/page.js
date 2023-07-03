@@ -267,13 +267,10 @@ __webpack_require__.d(__webpack_exports__, {
 
 // EXTERNAL MODULE: external "next/dist/compiled/react/jsx-runtime"
 var jsx_runtime_ = __webpack_require__(6786);
-// EXTERNAL MODULE: ./node_modules/next/dist/compiled/react/react.shared-subset.js
-var react_shared_subset = __webpack_require__(7887);
 // EXTERNAL MODULE: ./src/challenges/s1-week-5/WebsiteProject.module.css
 var WebsiteProject_module = __webpack_require__(405);
 var WebsiteProject_module_default = /*#__PURE__*/__webpack_require__.n(WebsiteProject_module);
 ;// CONCATENATED MODULE: ./src/challenges/s1-week-5/WebsiteProject.tsx
-
 
 
 const WebsiteProject = ()=>{
@@ -311,7 +308,6 @@ const WebsiteProject = ()=>{
 };
 
 ;// CONCATENATED MODULE: ./app/week-5/page.tsx
-
 
 
 const Week5 = ()=>{

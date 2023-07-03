@@ -263,8 +263,6 @@ __webpack_require__.d(__webpack_exports__, {
 
 // EXTERNAL MODULE: external "next/dist/compiled/react/jsx-runtime"
 var jsx_runtime_ = __webpack_require__(6786);
-// EXTERNAL MODULE: ./node_modules/next/dist/compiled/react/react.shared-subset.js
-var react_shared_subset = __webpack_require__(7887);
 // EXTERNAL MODULE: ./src/challenges/s1-week-2/BreakingNews.module.css
 var BreakingNews_module = __webpack_require__(514);
 var BreakingNews_module_default = /*#__PURE__*/__webpack_require__.n(BreakingNews_module);
@@ -272,7 +270,6 @@ var BreakingNews_module_default = /*#__PURE__*/__webpack_require__.n(BreakingNew
 var dist = __webpack_require__(2842);
 var dist_default = /*#__PURE__*/__webpack_require__.n(dist);
 ;// CONCATENATED MODULE: ./src/challenges/s1-week-2/BreakingNews.tsx
-
 
 
 
@@ -293,7 +290,6 @@ const BreakingNews = ()=>{
 };
 
 ;// CONCATENATED MODULE: ./app/week-2/page.tsx
-
 
 
 const Week2 = ()=>{

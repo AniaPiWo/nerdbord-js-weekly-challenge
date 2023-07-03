@@ -1,4 +1,3 @@
-import React from "react";
 import css from "./DarkMode.module.css";
 import logo from "./img/logo.png";
 
@@ -19,7 +18,7 @@ export const DarkMode = () => {
         </ul>
       </div>
       <div className={css.main}>
-        <span lassName={css.title}>Here goes the sun here comes a warmth.</span>
+        <span className={css.title}>Here goes the sun here comes a warmth.</span>
       </div>
     </div>
   );

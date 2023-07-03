@@ -1,0 +1,100 @@
+/*!***********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[3]!./src/challenges/s1-week-1/Stars.module.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************/
+
+.Stars_starsBox__NrsFE {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 1440px;
+  height: 700px;
+  background: #2A2A2A;
+  border-radius: 10px;
+  }
+  
+.Stars_starsBox__NrsFE h1 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+  margin-top: 100px;
+}
+
+  
+.Stars_stars__sn6D6 {
+  width: 650px;
+  height: 250px;
+}
+
+.Stars_star__RO8Ha {
+  height: 4px;
+  width: 4px;
+  display: inline-block;
+  margin: 14px;
+  border-radius: 9999px;
+  position: relative;
+  background: #33383D;
+  animation: Stars_twinkle__oQY4s 2s ease-in-out infinite;
+}
+
+@keyframes Stars_twinkle__oQY4s {
+  0% {
+    background: #33383D;
+    transform: scale(1);
+  }
+  25% {
+    background: radial-gradient(50% 50% at 50% 50%, #426F99 50%, rgba(79, 141, 198, 0) 100%);
+    transform: scale(2.5);
+  }
+  50% {
+    background: radial-gradient(50% 50% at 50% 50%, #4F8DC6 33.33%, rgba(79, 141, 198, 0) 100%);
+    transform: scale(1.5);
+  }
+  100% {
+    background: radial-gradient(50% 50% at 50% 50%, #3872A7 33.33%, rgba(79, 141, 198, 0) 100%);
+    transform: scale(1);
+  }
+}
+
+.Stars_unity__8YHyB {
+  height: 4px;
+  width: 4px;
+  display: inline-block;
+  margin: 14px;
+  border-radius: 9999px;
+  position: relative;
+  background: #33383D;
+  transition: background 0.5s, transform 0.5s ease-in-out;
+}
+
+.Stars_unity__8YHyB:nth-child(22), .Stars_unity__8YHyB:nth-child(24), .Stars_unity__8YHyB:nth-child(26), .Stars_unity__8YHyB:nth-child(29), .Stars_unity__8YHyB:nth-child(31),
+.Stars_unity__8YHyB:nth-child(33), .Stars_unity__8YHyB:nth-child(34), .Stars_unity__8YHyB:nth-child(35), .Stars_unity__8YHyB:nth-child(37), .Stars_unity__8YHyB:nth-child(38), 
+.Stars_unity__8YHyB:nth-child(39), .Stars_unity__8YHyB:nth-child(42), .Stars_unity__8YHyB:nth-child(44), .Stars_unity__8YHyB:nth-child(46), .Stars_unity__8YHyB:nth-child(47),
+.Stars_unity__8YHyB:nth-child(49), .Stars_unity__8YHyB:nth-child(51), .Stars_unity__8YHyB:nth-child(54), .Stars_unity__8YHyB:nth-child(57), .Stars_unity__8YHyB:nth-child(62),
+.Stars_unity__8YHyB:nth-child(64), .Stars_unity__8YHyB:nth-child(66), .Stars_unity__8YHyB:nth-child(68), .Stars_unity__8YHyB:nth-child(69), .Stars_unity__8YHyB:nth-child(71),
+.Stars_unity__8YHyB:nth-child(74), .Stars_unity__8YHyB:nth-child(77), .Stars_unity__8YHyB:nth-child(78), .Stars_unity__8YHyB:nth-child(79), .Stars_unity__8YHyB:nth-child(82),
+.Stars_unity__8YHyB:nth-child(84), .Stars_unity__8YHyB:nth-child(86), .Stars_unity__8YHyB:nth-child(89), .Stars_unity__8YHyB:nth-child(91), .Stars_unity__8YHyB:nth-child(94),
+.Stars_unity__8YHyB:nth-child(97), .Stars_unity__8YHyB:nth-child(102), .Stars_unity__8YHyB:nth-child(103), .Stars_unity__8YHyB:nth-child(104), .Stars_unity__8YHyB:nth-child(106),
+.Stars_unity__8YHyB:nth-child(109), .Stars_unity__8YHyB:nth-child(111), .Stars_unity__8YHyB:nth-child(114), .Stars_unity__8YHyB:nth-child(117), .Stars_unity__8YHyB:nth-child(118),
+.Stars_unity__8YHyB:nth-child(119)   {
+  height: 4px;
+  width: 4px;
+  display: inline-block;
+  margin: 14px;
+  border-radius: 9999px;
+  position: relative;
+  background: radial-gradient(50% 50% at 50% 50%, #426F99 50%, rgba(79, 141, 198, 0) 100%);
+  transform: scale(2.5)
+}
+
+.Stars_unity__8YHyB:hover {
+  background: #426F99;
+  transform: scale(3);
+}
+

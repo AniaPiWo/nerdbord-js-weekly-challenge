@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.mainDiv {
+  max-width: 1280px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.buttonBox {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.season {
+  padding-left: 20px;
+  text-align: start;
+  font-size: 24px;
+}
+
+.challenge {
+  min-width: 800px;
+  min-height: 600px;
+  border: 1px solid darkgray;
+  border-radius: 10px;
+}

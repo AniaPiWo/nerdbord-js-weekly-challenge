@@ -1,0 +1,12 @@
+.ChallengeButton {
+    background-color: white;
+    padding: 15px 37px;
+    border-radius: 10px;
+    border: 1px solid darkgray;
+    font-size: 16px;
+}
+
+.ChallengeButton:hover {
+    border: 1px solid black;
+    font-weight: 500;
+  }

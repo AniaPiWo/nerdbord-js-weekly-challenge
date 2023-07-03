@@ -24,14 +24,6 @@
       "static/css/0157ea651282a42f.css",
       "static/chunks/app/week-1/page-119423472009e957.js"
     ],
-    "/week-3/page": [
-      "static/chunks/webpack-a515dff0304e48a6.js",
-      "static/chunks/bce60fc1-8ff02651b86da20e.js",
-      "static/chunks/769-fbf02ee48059c79f.js",
-      "static/chunks/main-app-88f686e788b7121f.js",
-      "static/css/1dc54aac35af8b97.css",
-      "static/chunks/app/week-3/page-01505ab413ace797.js"
-    ],
     "/week-2/page": [
       "static/chunks/webpack-a515dff0304e48a6.js",
       "static/chunks/bce60fc1-8ff02651b86da20e.js",
@@ -48,6 +40,22 @@
       "static/css/81fe39d392b9b81e.css",
       "static/chunks/app/week-4/page-1c0857aeed4913a4.js"
     ],
+    "/week-5/page": [
+      "static/chunks/webpack-a515dff0304e48a6.js",
+      "static/chunks/bce60fc1-8ff02651b86da20e.js",
+      "static/chunks/769-fbf02ee48059c79f.js",
+      "static/chunks/main-app-88f686e788b7121f.js",
+      "static/css/b53d53de57167873.css",
+      "static/chunks/app/week-5/page-a0bf929a2bcd126a.js"
+    ],
+    "/week-3/page": [
+      "static/chunks/webpack-a515dff0304e48a6.js",
+      "static/chunks/bce60fc1-8ff02651b86da20e.js",
+      "static/chunks/769-fbf02ee48059c79f.js",
+      "static/chunks/main-app-88f686e788b7121f.js",
+      "static/css/1dc54aac35af8b97.css",
+      "static/chunks/app/week-3/page-01505ab413ace797.js"
+    ],
     "/week-6/page": [
       "static/chunks/webpack-a515dff0304e48a6.js",
       "static/chunks/bce60fc1-8ff02651b86da20e.js",
@@ -61,14 +69,6 @@
       "static/chunks/769-fbf02ee48059c79f.js",
       "static/chunks/main-app-88f686e788b7121f.js",
       "static/chunks/app/week-7/page-f4fa5c68c74527d2.js"
-    ],
-    "/week-5/page": [
-      "static/chunks/webpack-a515dff0304e48a6.js",
-      "static/chunks/bce60fc1-8ff02651b86da20e.js",
-      "static/chunks/769-fbf02ee48059c79f.js",
-      "static/chunks/main-app-88f686e788b7121f.js",
-      "static/css/b53d53de57167873.css",
-      "static/chunks/app/week-5/page-a0bf929a2bcd126a.js"
     ],
     "/week-8/page": [
       "static/chunks/webpack-a515dff0304e48a6.js",

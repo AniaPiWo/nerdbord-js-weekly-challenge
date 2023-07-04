@@ -49,6 +49,44 @@
   border-radius: 10px;
 }
 
+
+@media only screen and (max-width: 600px) {
+  .page_mainDiv__G_I8p {
+    max-width: 600px;
+  }
+
+  .page_buttonBox__ytTPZ {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .page_season__Oe_0C {
+    padding-left: 0;
+    text-align: center;
+    font-size: 24px;
+  }
+}
+
+
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+  .page_mainDiv__G_I8p {
+    max-width: 1000px;
+  }
+
+  .page_buttonBox__ytTPZ {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .page_season__Oe_0C {
+    padding-left: 0;
+    text-align: center;
+    font-size: 24px;
+  }
+}
+
+
+
 /*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[3]!./src/components/Header/Header.module.css ***!
   \*********************************************************************************************************************************************************************************************************************************************************************************/
@@ -60,6 +98,7 @@
     justify-content: center;
     min-width: 620px;
     max-width: 1280px;
+    position: relative;
 }
 
 .Header_underline__V1d66 {
@@ -68,4 +107,25 @@
     border-bottom: 1px solid black;
 }
 
+.Header_darkmode__Gl2DC {
+    position: absolute;
+    left: 1200px;
+}
 
+@media only screen and (max-width: 600px) {
+    .Header_darkmode__Gl2DC {
+        position: absolute;
+        left: 1200px;
+    }
+  }
+  
+  
+  @media only screen and (min-width: 601px) and (max-width: 1024px) {
+    
+.Header_darkmode__Gl2DC {
+    position: absolute;
+    left: 570px;
+    top: 15px
+}
+  }
+  

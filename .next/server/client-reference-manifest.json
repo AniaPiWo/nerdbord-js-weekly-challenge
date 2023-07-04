@@ -63,6 +63,110 @@
         "chunks": [],
         "async": false
       }
+    },
+    "(app-client)/./src/context/ThemeContext.js": {
+      "*": {
+        "id": "(sc_client)/./src/context/ThemeContext.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/challenges/s1-week-1/Stars.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/challenges/s1-week-1/Stars.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/react-fast-marquee/dist/index.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/react-fast-marquee/dist/index.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/challenges/s1-week-3/ConfirmationModal.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/challenges/s1-week-3/ConfirmationModal.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/assets/Rectangle1.png": {
+      "*": {
+        "id": "(sc_client)/./src/assets/Rectangle1.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/assets/Rectangle2.png": {
+      "*": {
+        "id": "(sc_client)/./src/assets/Rectangle2.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/assets/Rectangle3.png": {
+      "*": {
+        "id": "(sc_client)/./src/assets/Rectangle3.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/assets/Rectangle4.png": {
+      "*": {
+        "id": "(sc_client)/./src/assets/Rectangle4.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/assets/Rectangle5.png": {
+      "*": {
+        "id": "(sc_client)/./src/assets/Rectangle5.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/assets/Rectangle6.png": {
+      "*": {
+        "id": "(sc_client)/./src/assets/Rectangle6.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/challenges/s1-week-4/InteractiveProductCard.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/challenges/s1-week-4/InteractiveProductCard.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
     }
   },
   "edgeSSRModuleMapping": {},
@@ -234,6 +338,126 @@
         "app/page:static/chunks/app/page.js"
       ],
       "async": false
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\src\\context\\ThemeContext.js": {
+      "id": "(app-client)/./src/context/ThemeContext.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\src\\challenges\\s1-week-1\\Stars.tsx": {
+      "id": "(app-client)/./src/challenges/s1-week-1/Stars.tsx",
+      "name": "*",
+      "chunks": [
+        "app/week-1/page:static/chunks/app/week-1/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\node_modules\\react-fast-marquee\\dist\\index.js": {
+      "id": "(app-client)/./node_modules/react-fast-marquee/dist/index.js",
+      "name": "*",
+      "chunks": [
+        "app/week-2/page:static/chunks/app/week-2/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\src\\challenges\\s1-week-3\\ConfirmationModal.tsx": {
+      "id": "(app-client)/./src/challenges/s1-week-3/ConfirmationModal.tsx",
+      "name": "*",
+      "chunks": [
+        "app/week-3/page:static/chunks/app/week-3/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\src\\assets\\Rectangle1.png": {
+      "id": "(app-client)/./src/assets/Rectangle1.png",
+      "name": "*",
+      "chunks": [
+        "app/week-4/page:static/chunks/app/week-4/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\src\\assets\\Rectangle2.png": {
+      "id": "(app-client)/./src/assets/Rectangle2.png",
+      "name": "*",
+      "chunks": [
+        "app/week-4/page:static/chunks/app/week-4/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\src\\assets\\Rectangle3.png": {
+      "id": "(app-client)/./src/assets/Rectangle3.png",
+      "name": "*",
+      "chunks": [
+        "app/week-4/page:static/chunks/app/week-4/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\src\\assets\\Rectangle4.png": {
+      "id": "(app-client)/./src/assets/Rectangle4.png",
+      "name": "*",
+      "chunks": [
+        "app/week-4/page:static/chunks/app/week-4/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\src\\assets\\Rectangle5.png": {
+      "id": "(app-client)/./src/assets/Rectangle5.png",
+      "name": "*",
+      "chunks": [
+        "app/week-4/page:static/chunks/app/week-4/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\src\\assets\\Rectangle6.png": {
+      "id": "(app-client)/./src/assets/Rectangle6.png",
+      "name": "*",
+      "chunks": [
+        "app/week-4/page:static/chunks/app/week-4/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\node_modules\\next\\dist\\client\\image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/week-4/page:static/chunks/app/week-4/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\node_modules\\next\\dist\\esm\\client\\image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/week-4/page:static/chunks/app/week-4/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\node_modules\\next\\dist\\shared\\lib\\head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/week-4/page:static/chunks/app/week-4/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/week-4/page:static/chunks/app/week-4/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\src\\challenges\\s1-week-4\\InteractiveProductCard.tsx": {
+      "id": "(app-client)/./src/challenges/s1-week-4/InteractiveProductCard.tsx",
+      "name": "*",
+      "chunks": [
+        "app/week-4/page:static/chunks/app/week-4/page.js"
+      ],
+      "async": false
     }
   },
   "entryCSSFiles": {
@@ -254,6 +478,39 @@
       ],
       "files": [
         "static/css/app/layout.css"
+      ]
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\app\\week-1\\page": {
+      "modules": [
+        "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\src\\challenges\\s1-week-1\\Stars.module.css"
+      ],
+      "files": [
+        "static/css/app/week-1/page.css"
+      ]
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\app\\week-2\\page": {
+      "modules": [
+        "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\src\\challenges\\s1-week-2\\BreakingNews.module.css"
+      ],
+      "files": [
+        "static/css/app/week-2/page.css"
+      ]
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\app\\week-3\\page": {
+      "modules": [
+        "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\app\\week-3\\page.module.css",
+        "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\src\\challenges\\s1-week-3\\ConfirmationModal.module.css"
+      ],
+      "files": [
+        "static/css/app/week-3/page.css"
+      ]
+    },
+    "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\app\\week-4\\page": {
+      "modules": [
+        "D:\\Nerdboard\\nerdbord-js-weekly-challenge\\src\\challenges\\s1-week-4\\InteractiveProductCard.module.css"
+      ],
+      "files": [
+        "static/css/app/week-4/page.css"
       ]
     }
   }

@@ -6,6 +6,7 @@
     justify-content: center;
     min-width: 620px;
     max-width: 1280px;
+    position: relative;
 }
 
 .underline {
@@ -14,3 +15,25 @@
     border-bottom: 1px solid black;
 }
 
+.darkmode {
+    position: absolute;
+    left: 1200px;
+}
+
+@media only screen and (max-width: 600px) {
+    .darkmode {
+        position: absolute;
+        left: 1200px;
+    }
+  }
+  
+  
+  @media only screen and (min-width: 601px) and (max-width: 1024px) {
+    
+.darkmode {
+    position: absolute;
+    left: 570px;
+    top: 15px
+}
+  }
+  

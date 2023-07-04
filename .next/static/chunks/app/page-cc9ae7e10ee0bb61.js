@@ -1,9 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[931],{1318:function(e,n,t){Promise.resolve().then(t.bind(t,8314)),Promise.resolve().then(t.t.bind(t,9527,23)),Promise.resolve().then(t.t.bind(t,7789,23))},8314:function(e,n,t){"use strict";t.r(n);var o=t(9268),r=t(5088),_=t.n(r),s=t(6008);n.default=e=>{let{number:n}=e,t=(0,s.useRouter)();return(0,o.jsx)("button",{className:_().ChallengeButton,onClick:()=>{console.log("clicked"),t.push("/week-".concat(n))},children:"Week ".concat(n)})}},9527:function(e){e.exports={root:"page_root__AdPdc",mainDiv:"page_mainDiv__G_I8p",buttonBox:"page_buttonBox__ytTPZ",season:"page_season__Oe_0C",challenge:"page_challenge__wp98v"}},5088:function(e){e.exports={ChallengeButton:"ChallengeButton_ChallengeButton__COhEN"}},7789:function(e){e.exports={header:"Header_header__D4RXM",underline:"Header_underline__V1d66"}},3177:function(e,n,t){"use strict";/**
- * @license React
- * react-jsx-runtime.production.min.js
- *
- * Copyright (c) Meta Platforms, Inc. and affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */var o=t(6006),r=Symbol.for("react.element"),_=Symbol.for("react.fragment"),s=Object.prototype.hasOwnProperty,u=o.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED.ReactCurrentOwner,a={key:!0,ref:!0,__self:!0,__source:!0};function l(e,n,t){var o,_={},l=null,c=null;for(o in void 0!==t&&(l=""+t),void 0!==n.key&&(l=""+n.key),void 0!==n.ref&&(c=n.ref),n)s.call(n,o)&&!a.hasOwnProperty(o)&&(_[o]=n[o]);if(e&&e.defaultProps)for(o in n=e.defaultProps)void 0===_[o]&&(_[o]=n[o]);return{$$typeof:r,type:e,key:l,ref:c,props:_,_owner:u.current}}n.Fragment=_,n.jsx=l,n.jsxs=l},9268:function(e,n,t){"use strict";e.exports=t(3177)},6008:function(e,n,t){e.exports=t(794)}},function(e){e.O(0,[253,769,744],function(){return e(e.s=1318)}),_N_E=e.O()}]);
